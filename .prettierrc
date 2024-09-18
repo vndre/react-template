@@ -1,0 +1,15 @@
+{
+  "overrides": [
+    {
+      "files": "*.mdx",
+      "options": {
+        "printWidth": 70
+      }
+    }
+  ],
+  "printWidth": 100,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none"
+}
